@@ -1,2 +1,2 @@
-this is a message I have deleted in newbranch
+this is a message I have added in newbranch
 this is a second message
